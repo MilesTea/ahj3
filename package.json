@@ -9,14 +9,18 @@
     "build": "webpack",
     "server": "live-server ."
   },
-  "author": "",
+  "author": "MilesTea <kurwatea@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.7.3",
-    "html-webpack-plugin": "^5.5.0",
+    "html-webpack-plugin": "^5.5.1",
     "http-server": "^14.1.1",
     "style-loader": "^3.3.2",
-    "webpack": "^5.78.0",
-    "webpack-cli": "^5.0.1"
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.0.2"
+  },
+  "repository": "https://github.com/MilesTea/ahj3",
+  "dependencies": {
+    "live-server": "^1.2.2"
   }
 }
